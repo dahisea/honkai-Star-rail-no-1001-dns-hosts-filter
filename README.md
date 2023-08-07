@@ -1,4 +1,1 @@
-# 崩坏星穹铁道hosts
-尝试优化了星穹铁道cdn节点（此规则同样在DAHI公共DNS部署）
-
-1001错误你不要过来啊啊啊（本身就是优化，玄学方案，不一定有效）
+# A hosts profile for optimize Starrail.
