@@ -10,6 +10,8 @@
 13.33.183.12 sdk-common-api.hoyoverse.com
 13.33.183.12 sdk-common-static.hoyoverse.com
 192.169.122.210 sdk-os-static.hoyoverse.com
-170.33.12.66 globaldp-prod-os01.starrails.com
-170.33.12.66 prod-official-asia-dp01.starrails.com
+104.18.7.235 globaldp-prod-os01.starrails.com
+104.18.7.235 globaldp-prod-os02.starrails.com
+104.18.7.235 prod-official-asia-dp01.starrails.com
+104.18.7.235 prod-official-cht-dp01.starrails.com
 # 124.232.139.218 autopatchos.starrails.com
