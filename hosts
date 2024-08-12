@@ -1,25 +1,15 @@
 #OS
-13.35.7.38 sg-hkrpg-api.hoyoverse.com
-13.35.7.39 hkrpg-sdk-os-static.hoyoverse.com
-13.35.7.41 hkrpg-sdk-os.hoyoverse.com
-13.35.7.42 sg-hkrpg-api-static.hoyoverse.com
-13.35.7.43 sg-public-data-api.hoyoverse.com
-13.35.7.44 sg-public-api-static.hoyoverse.com
-13.35.7.45 sdk.hoyoverse.com
-13.35.7.46 sdk-common-api.hoyoverse.com
-13.35.7.47 sdk-common-static.hoyoverse.com
-192.169.122.230 sdk-os-static.hoyoverse.com
-173.245.49.7 globaldp-prod-os01.starrails.com
-173.245.49.7 prod-official-asia-dp01.starrails.com
+13.33.183.12 sg-hkrpg-api.hoyoverse.com
+13.33.183.12 hkrpg-sdk-os-static.hoyoverse.com
+13.33.183.12 hkrpg-sdk-os.hoyoverse.com
+13.33.183.12 sg-hkrpg-api-static.hoyoverse.com
+13.33.183.12 sg-public-data-api.hoyoverse.com
+13.33.183.12 sg-public-api-static.hoyoverse.com
+13.33.183.12 abtest-api-data-sg.hoyoverse.com
+13.33.183.12 sdk.hoyoverse.com
+13.33.183.12 sdk-common-api.hoyoverse.com
+13.33.183.12 sdk-common-static.hoyoverse.com
+192.169.122.210 sdk-os-static.hoyoverse.com
+170.33.12.66 globaldp-prod-os01.starrails.com
+170.33.12.66 prod-official-asia-dp01.starrails.com
 
-#CN
-203.107.60.77 api-takumi.mihoyo.com
-170.33.9.150 api-os-takumi.mihoyo.com
-203.107.60.77 public-data-api.mihoyo.com
-203.107.63.13 sdk-common-api.mihoyo.com
-203.107.86.219 globaldp-prod-cn01.bhsr.com
-203.107.84.69 hkrpg-api.mihoyo.com
-203.107.47.211 hkrpg-sdk.mihoyo.com
-203.107.86.203 prod-gf-cn-dp01.bhsr.com
-222.73.33.242 sdk-common-static.mihoyo.com
-101.226.26.134 sdk-static.mihoyo.com
