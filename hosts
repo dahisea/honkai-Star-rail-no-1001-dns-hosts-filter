@@ -1,15 +1,14 @@
 # for OS from CHN
-13.33.183.12 sg-hkrpg-api.hoyoverse.com
-13.33.183.12 hkrpg-sdk-os-static.hoyoverse.com
 13.33.183.12 hkrpg-sdk-os.hoyoverse.com
+13.33.183.12 hkrpg-sdk-os-static.hoyoverse.com
+13.33.183.12 sg-hkrpg-api.hoyoverse.com
 13.33.183.12 sg-hkrpg-api-static.hoyoverse.com
 13.33.183.12 sg-public-data-api.hoyoverse.com
 13.33.183.12 sg-public-api-static.hoyoverse.com
-13.33.183.12 abtest-api-data-sg.hoyoverse.com
 13.33.183.12 sdk.hoyoverse.com
+192.169.122.210 sdk-os-static.hoyoverse.com
 13.33.183.12 sdk-common-api.hoyoverse.com
 13.33.183.12 sdk-common-static.hoyoverse.com
-192.169.122.210 sdk-os-static.hoyoverse.com
 13.33.183.12 webstatic.hoyoverse.com
 104.18.7.235 globaldp-prod-os01.starrails.com
 104.18.7.235 globaldp-prod-os02.starrails.com
