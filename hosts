@@ -1,4 +1,4 @@
-#OS
+# for OS from CHN
 13.33.183.12 sg-hkrpg-api.hoyoverse.com
 13.33.183.12 hkrpg-sdk-os-static.hoyoverse.com
 13.33.183.12 hkrpg-sdk-os.hoyoverse.com
@@ -12,4 +12,4 @@
 192.169.122.210 sdk-os-static.hoyoverse.com
 170.33.12.66 globaldp-prod-os01.starrails.com
 170.33.12.66 prod-official-asia-dp01.starrails.com
-
+# 124.232.139.218 autopatchos.starrails.com
